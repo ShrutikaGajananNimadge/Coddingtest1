@@ -1,0 +1,19 @@
+Input 1:
+1 book at 12.49
+1 music CD at 14.99
+1 chocolate at 0.85
+Input 2:
+1 imported box of chocolate at 10.0
+1 imported box of chocolate at 47.5
+--------------------
+Output 1:
+1 book: 12.49
+1 music CD:16.489
+1 chocolate at 0.85
+Salse Taxes:1.499
+Total:29.829
+Output 2:
+1 imported box of chocolate :10.5
+1 imported box of Perfume :54.625
+Salse Taxes:7.125
+Total:65.125
